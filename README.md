@@ -9,7 +9,7 @@
 (Jimmy Andrade)
 * Jimmy Andrade: voz, violão, gravação
 
-### 2. ConsequÍncias
+### 2. Consequências
 (Willer Lemos / Ivan Pestana)
 * Jimmy Andrade: vozes, violão, gravação
 
