@@ -1,6 +1,4 @@
 # Eletroacústico
-
-## Ficha técnica
 * Gravado em Diamantina(MG) entre 2007 e 2008
 * Arte da capa: Jimmy Andrade
 
@@ -40,3 +38,10 @@
 ### 8. Longe
 (Gustavo Nascimento / Jimmy Andrade)
 * Jimmy Andrade: voz, violão
+
+## Capa e contracapa
+![Capa do álbum Eletroacústico][cover]
+![Contracapa do álbum Eletroacústico][backcover]
+
+[cover]: cover.png
+[backcover]: back-cover.png
